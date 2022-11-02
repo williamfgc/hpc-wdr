@@ -1,9 +1,5 @@
 # HPC Workforce Development and Retention
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 ## What is this?
 
 This is a repository that containers the files for the official HPC Workforce Development and Retention group website hosted at https://hpcwdr.com.
