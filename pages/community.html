@@ -1,0 +1,105 @@
+---
+layout: page
+title: Community
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+permalink: /community/
+---
+
+  <div class="mt-4 mb-4">
+    <h3 class="mb-0">Reoccurring Events</h3>
+    <p class="mt-0">Schools and Workshops</p>
+    <div class="row post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {% assign events = site.events | where:'repeated', "true" | sort: 'date'%}
+      {%- for event in events -%}
+
+      <!-- Only show items that are not expired (aka archived)-->
+      {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+      {% capture expires %}{{ event.expires | date: '%s'}}{% endcapture %}
+
+        {% if expires > nowunix %}
+          <div class="col-lg-3 mt-4 mb-4">
+          <span class="post-meta">{{ event.date | date: date_format }}</span>
+          <h3>
+              <a class="post-link" href="{{ event.url | relative_url }}">
+                  {{ event.title | escape }}
+              </a>
+          </h3>
+          {{ event.content | strip_html | truncatewords: 15 }}
+          </div>
+        {% endif %}
+      {%- endfor -%}
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="mb-4">
+    <h3 class="mb-0">Upcoming Webinars</h3>
+    <p class="m-0">Webinars hosts by us</p>
+    <div class="row post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {% assign events = site.events | where:'category', "webinar" | sort: 'date'%}
+      {%- for event in events -%}
+
+      <!-- Only show items that are not expired (aka archived)-->
+      {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+      {% capture expires %}{{ event.expires | date: '%s'}}{% endcapture %}
+
+        {% if expires > nowunix %}
+          <div class="col-lg-3 mt-4 mb-4">
+          <span class="post-meta">{{ event.date | date: date_format }}</span>
+          <h3>
+              <a class="post-link" href="{{ event.url | relative_url }}">
+                  {{ event.title | escape }}
+              </a>
+          </h3>
+          {{ event.content | strip_html | truncatewords: 15 }}
+          </div>
+        {% endif %}
+      {%- endfor -%}
+    </div>
+    <button class="btn btn-outline">
+      <a href="/event_archive">Webinar Archive</a>
+    </button>
+  </div>
+
+  <hr>
+
+  <div class="mt-4 mb-4">
+    <h3 class="mb-0">Community Events</h3>
+    <p class="mt-0">Schools and Workshops</p>
+    <div class="row post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {% assign events = site.events | where:'category', "community" | sort: 'date'%}
+      {%- for event in events -%}
+
+      <!-- Only show items that are not expired (aka archived)-->
+      {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+      {% capture expires %}{{ event.expires | date: '%s'}}{% endcapture %}
+
+        {% if expires > nowunix %}
+          <div class="col-lg-3 mt-4 mb-4">
+          <span class="post-meta">{{ event.date | date: date_format }}</span>
+          <h3>
+              <a class="post-link" href="{{ event.url | relative_url }}">
+                  {{ event.title | escape }}
+              </a>
+          </h3>
+          {{ event.content | strip_html | truncatewords: 15 }}
+          </div>
+        {% endif %}
+      {%- endfor -%}
+    </div>
+    <button class="btn btn-outline">
+      <a href="/event_archive">Event Archive</a>
+    </button>
+  </div>
+  
+  <hr>
+
+  <div class="highlight-block">
+    <h3>Want to submit your event?</h3>
+    <p>Submit your event here.</p>
+    <button class="btn btn-primary">Submit Event</button>
+  </div>

@@ -1,0 +1,15 @@
+<h3>Announcements</h3>
+
+{% for item in site.data.announcements limit:3 %}
+
+<!-- Only show items that are not expired (aka archived)-->
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture expires %}{{ item.expires | date: '%s'}}{% endcapture %}
+
+{% if expires > nowunix %}
+<div class="mb-3">
+    <p class="m-0 font-weight-bold">{{ item.name }}</p>
+    <p>{{ item.description }}</p>
+</div>
+{% endif %}
+{% endfor %}

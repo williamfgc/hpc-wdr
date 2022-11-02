@@ -1,0 +1,77 @@
+---
+layout: page
+title: Blog
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+---
+<!-- 
+  By filtering out archived posts, we get weird behavior
+  with the paginator. If you archive a post that is not the
+  oldest, it will leave a blank spot on the page its suppose to be on.
+  For ex: if you archive the newest post, the first page will only show 4
+  items instead of 5. All other pages will be normal.
+
+  If this becomes a problem, we can remove this "where archived" code
+  and combine the archived blogs with the non-archived ones.
+ -->
+{% assign posts = paginator.posts %}
+
+{%- if posts.size > 0 -%}
+  {%- if page.list_title -%}
+    <h2 class="post-list-heading">{{ page.list_title }}</h2>
+  {%- endif -%}
+    <ul class="post-list">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- for post in posts -%}
+
+    <!-- Only show items that are not expired (aka archived)-->
+    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+    {% capture expires %}{{ post.expires | date: '%s'}}{% endcapture %}
+
+    {% if expires > nowunix %}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+        </a>
+        </h3>
+        {{ post.content | strip_html | truncatewords: 50 }}
+      </li>
+    {% endif %}
+    {%- endfor -%}
+    </ul>
+
+      <!-- Pagination links -->
+      {% if paginator.total_pages > 1 %}
+      <ul class="pagination">
+        {% if paginator.previous_page %}
+          <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a></li>
+        {% else %}
+          <li class="page-item"><span class="page-link">&laquo; Prev</span></li>
+        {% endif %}
+      
+        {% for page in (1..paginator.total_pages) %}
+          {% if page == paginator.page %}
+            <li class="page-item active"><span class="page-link">{{ page }}</span></li>
+          {% elsif page == 1 %}
+            <li class="page-item"><a class="page-link" href="{{ site.paginate_path | relative_url | replace: '/page:num', '' }}">{{ page }}</a></li>
+          {% else %}
+            <li class="page-item"><a class="page-link" href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a></li>
+          {% endif %}
+        {% endfor %}
+      
+        {% if paginator.next_page %}
+          <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a></li>
+        {% else %}
+          <li class="page-item"><span class="page-link">Next &raquo;</span></li>
+        {% endif %}
+      </ul>
+      <span class="float-right">{{ paginator.total_posts }} posts</span>
+    {%- endif %}
+
+{%- endif -%}
+
+<br>
+<button class="btn btn-outline">
+  <a href="/blog_archive">Blog Archive</a>
+</button>

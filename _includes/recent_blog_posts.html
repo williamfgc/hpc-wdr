@@ -1,0 +1,32 @@
+<h3>Latest Blog Posts</h3>
+
+<!-- reverse allows for newest to be shown first -->
+{% assign posts = site.posts | sort: 'date' | reverse %}
+
+{%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+    <h2 class="post-list-heading">{{ page.list_title }}</h2>
+    {%- endif -%}
+    <ul class="post-list">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- for post in posts limit:3 -%}
+
+    <!-- Only show items that are not expired (aka archived)-->
+    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+    {% capture expires %}{{ post.expires | date: '%s'}}{% endcapture %}
+
+    {% if expires > nowunix %}
+    <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+        </a>
+        </h3>
+        {{ post.content | strip_html | truncatewords: 15 }}
+    </li>
+    {% endif %}
+    {%- endfor -%}
+    </ul>
+{%- endif -%}
+<button class="btn btn-outline">View All Posts</button>
