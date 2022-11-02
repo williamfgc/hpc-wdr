@@ -1,0 +1,59 @@
+---
+layout: page
+title: Events Archive
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+permalink: /event_archive/
+---
+
+  <div class="mb-4">
+    <h3 class="mb-0">Archived Webinars</h3>
+    <p class="m-0">Webinars hosts by us</p>
+    <div class="row post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {% assign events = site.events | where:'category', "webinar" | sort: 'date' | reverse %}
+      <ul>
+        {%- for event in events -%}
+
+        <!-- Only show items that are expired (aka archived)-->
+        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+        {% capture expires %}{{ event.expires | date: '%s'}}{% endcapture %}
+
+        {% if expires < nowunix %}
+          <li>
+              <a class="" href="{{ event.url | relative_url }}">
+                  {{ event.title | escape }}
+              </a>
+              <span class="post-meta">{{ event.date | date: date_format }}</span>
+          </li>
+        {% endif %}
+        {%- endfor -%}
+      </ul>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="mb-4">
+    <h3 class="mb-0">Archived Community Events</h3>
+    <p class="m-0">Schools and Workshops</p>
+    <div class="row post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {% assign events = site.events | where:'category', "community" | sort: 'date' | reverse %}
+      <ul>
+        {%- for event in events -%}
+        <!-- Only show items that are expired (aka archived)-->
+        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+        {% capture expires %}{{ event.expires | date: '%s'}}{% endcapture %}
+
+        {% if expires < nowunix %}
+          <li>
+              <a class="" href="{{ event.url | relative_url }}">
+                  {{ event.title | escape }}
+              </a>
+              <span class="post-meta">{{ event.date | date: date_format }}</span>
+          </li>
+          {% endif %}
+        {%- endfor -%}
+      </ul>
+    </div>
+  </div>

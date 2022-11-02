@@ -1,0 +1,30 @@
+---
+layout: page
+title: Blog Archive
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+permalink: /blog_archive/
+---
+
+   <div class="mb-4">
+      <div class="row post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {% assign posts = site.posts | sort: 'date' | reverse %}
+      <ul>
+         {%- for post in posts -%}
+
+         <!-- Only show items that are not expired (aka archived)-->
+         {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+         {% capture expires %}{{ post.expires | date: '%s'}}{% endcapture %}
+
+         {% if expires > nowunix %}
+            <li>
+               <a class="" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+               </a>
+               <span class="post-meta">{{ post.date | date: date_format }}</span>
+            </li>
+            {% endif %}
+         {%- endfor -%}
+      </ul>
+      </div>
+   </div>

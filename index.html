@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <div class="banner">
+    <!-- <img class="w-100" src="https://via.placeholder.com/1000x350"> -->
+    <div class="banner-text w-100">
+      <div class="wrapper">
+        <h3>Lorem Ipsum</h3>
+        <h2 class="display-3">Lorem Ipsum</h2>
+        <p>Lorem Ipsum is  simply dummy text of the printing and typesetting industry</p>
+        <button class="btn btn-primary">Learn More</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrapper">
+    {%- if page.title -%}
+        <h1 class="page-heading">{{ page.title }}</h1>
+    {%- endif -%}
+
+    <div class="card mt-4 mb-4">
+        <div class="card-header">
+            <p>Mission Statement</p>
+        </div>
+        <div class="card-body">
+            <p>The High Performance Computing Workforce Development and Retention Action Group’s mission is to enable the Department of Energy National Laboratories and their related computing communities to share their collective insight for inclusive and equitable workforce development and retention for High Performance Computing.</p> 
+            <p>We foster a community within the DOE High-Performance Computing  communities that comes together on a regular basis to share ideas, catalog best practices, and develop recommendations and strategies for improvement.</p>
+        </div>
+    </div>
+
+    <div class="row mt-5 mb-5">
+        <div class="col-lg-8">
+            {% include recent_blog_posts.html %}
+        </div>
+        <div class="col-lg">
+            {% include recent_announcements.html %}
+        </div>
+    </div>
+
+    <div class="row mt-5 mb-5">
+        <div class="col-lg">
+            {% include recent_events.html %}
+        </div>
+    </div>
+
+    
+  </div> <!-- end wrapper-->
+</div>
