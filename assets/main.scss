@@ -1,25 +1,79 @@
 ---
 ---
+$primary:       {{site.primary-color}};
+$secondary:     {{site.secondary-color}};
+$success:       {{site.success-color}};
+$info:          {{site.info-color}};
+$warning:       {{site.warning-color}};
+$danger:        {{site.danger-color}};
+$light:         {{site.light-color}};
+$dark:          {{site.dark-color}};
 
 @import "{{ site.theme }}";
 @import 'bootstrap/bootstrap';
 
+//** 
+//** MINIMA OVERWRITES
+//**
+.page-content {
+    padding: 0px;
+}
+article {
+    padding: 25px 0px;
+}
+
+//** 
+//* GENERAL 
+//**
 .wrapper {
     max-width: 1100px;
 }
-.site-nav {
-    line-height: initial;
+.highlight-block {
+    background-color: {{site.light-color}}; //#e6e6e6
+    padding: 25px;
 }
+
+//** 
+//* TYPOGRAPHY 
+//**
+h3 {
+    color: {{site.primary-color}};
+}
+a {
+    color: {{site.dark-color}};
+}
+a:visited {
+    color: {{site.dark-color}}; // This may need to be changed
+}
+a:hover {
+    color: {{site.dark-color}};
+    text-decoration: underline;
+}
+
+p.display-5 {
+    font-size: 1.5rem;
+}
+
+//** 
+//* BUTTONS 
+//**
+button.btn.btn-outline {
+    color: {{site.primary-color}}!important;
+    border-color: {{site.primary-color}}!important;
+    border: 2px solid {{site.primary-color}}!important;
+    background-color: transparent!important;
+}
+button.btn.btn-outline a,
+button.btn.btn-outline a:visited {
+    color: {{site.primary-color}}!important;
+}
+
+//** 
+//* SOCIAL BAR 
+//**
 .social-bar {
-    background-color: #171612;
+    background-color: {{site.dark-color}};
     min-height: 30px;
-}
-.site-footer {
-    background-color: #171612;
-    color: white;
-}
-.page-content {
-    padding: 0px;
 }
 .social-bar .social-media-list{
     float: right;
@@ -34,26 +88,67 @@
 .social-bar .username {
     display: none;
 }
-.social-media-list li + li {
-    padding-top: 3px;
+
+//** 
+//* HEADER 
+//**
+.site-nav {
+    line-height: initial;
 }
-article {
-    padding: 25px 0px;
+a.nav-link {
+    color: black;
+    padding: 1rem!important;
 }
+a.nav-link:hover {
+    color: {{site.primary-color}};
+}
+
+//** 
+//* FOOTER 
+//**
+.site-footer {
+    background-color: {{site.dark-color}};
+    color: white;
+}
+
+//** 
+//* BANNER 
+//**
+.banner {
+    position: relative;
+    background: url(./img/hpcwdr-banner.png), {{site.dark-color}};
+    background-repeat: no-repeat;
+    background-size: auto 500px;
+    background-position: right;
+    color: white;
+}
+.banner-text {
+    padding: 140px;
+}
+
+//** 
+//* PAGINATION 
+//**
 ul.pagination {
     margin-left: 0px;
 }
-.banner {
-    position: relative;
-    background: url(https://via.placeholder.com/1000x350), #cccccc;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
+
+//** 
+//* HOME PAGE
+//**
+.mission.card {
+    margin-top: -50px;
+    background-color: #f3f3f3;
+    border: 1px solid #e4e4e4;
+    border-radius: 0;
+    padding: 40px 50px;
 }
-.banner-text {
-    padding: 100px;
+.mission .card-header {
+    border: none;
+    background-color: transparent;
+    font-size: 24px;
+    padding: 0px;
 }
-.highlight-block {
-    background-color: #e6e6e6;
-    padding: 25px;
+.mission .card-body {
+    padding: 0px;
 }
