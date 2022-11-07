@@ -77,6 +77,15 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
+primary-color: "#d5a300"
+secondary-color: "#23468b"
+success-color: "#28a745"
+info-color: "#17a2b8"
+warning-color: "#ffc107"
+danger-color: "#dc3545"
+light-color: "#F5F5F5"
+dark-color: "#000a0d"
+
 navbar-col: "#F5F5F5"
 navbar-text-col: "#ffffff"
 navbar-children-col: "#500e3d"

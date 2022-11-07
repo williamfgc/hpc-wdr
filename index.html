@@ -8,10 +8,10 @@ layout: default
     <!-- <img class="w-100" src="https://via.placeholder.com/1000x350"> -->
     <div class="banner-text w-100">
       <div class="wrapper">
-        <h3>Lorem Ipsum</h3>
+        <p class="display-5 m-0">Lorem Ipsum</p>
         <h2 class="display-3">Lorem Ipsum</h2>
         <p>Lorem Ipsum is  simply dummy text of the printing and typesetting industry</p>
-        <button class="btn btn-primary">Learn More</button>
+        <button class="btn btn-outline">Learn More</button>
       </div>
     </div>
   </div>
@@ -21,9 +21,9 @@ layout: default
         <h1 class="page-heading">{{ page.title }}</h1>
     {%- endif -%}
 
-    <div class="card mt-4 mb-4">
+    <div class="mission card mb-4">
         <div class="card-header">
-            <p>Mission Statement</p>
+            <p>Our Mission</p>
         </div>
         <div class="card-body">
             <p>The High Performance Computing Workforce Development and Retention Action Group’s mission is to enable the Department of Energy National Laboratories and their related computing communities to share their collective insight for inclusive and equitable workforce development and retention for High Performance Computing.</p> 
@@ -39,6 +39,8 @@ layout: default
             {% include recent_announcements.html %}
         </div>
     </div>
+
+    <hr>
 
     <div class="row mt-5 mb-5">
         <div class="col-lg">
