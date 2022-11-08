@@ -76,7 +76,6 @@ navbar-links:
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-
 primary-color: "#d5a300"
 secondary-color: "#23468b"
 success-color: "#28a745"
