@@ -7,8 +7,9 @@
   {% endif %}
 {% endif %}
 
+<!-- {{ site.baseurl }} -->
 {% if internal %}
-  {% capture linkurl %}{{ site.baseurl }}/{{ include.link[1] }}{% endcapture %}
+  {% capture linkurl %}/{{ include.link[1] }}{% endcapture %}
 {% else %}
   {% capture linkurl %}{{ include.link[1] }}{% endcapture %}
 {% endif %}
