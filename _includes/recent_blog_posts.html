@@ -18,15 +18,18 @@
     {% if expires > nowunix %}
     <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-        </a>
-        </h3>
+        <h4>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+            </a>
+        </h4>
         {{ post.content | strip_html | truncatewords: 15 }}
     </li>
     {% endif %}
     {%- endfor -%}
     </ul>
 {%- endif -%}
-<button class="btn btn-outline">View All Posts</button>
+
+<a href="/blog">
+    <button class="btn btn-outline">View All Posts</button>
+</a>

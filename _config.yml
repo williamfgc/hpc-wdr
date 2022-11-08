@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   mission is to enable the Department of Energy National Laboratories and their 
   related computing communities to share their collective insight for inclusive 
   and equitable workforce development and retention for High Performance Computing.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/hpcwdr" # the subpath of your site, e.g. /blog
+url: "https://hpc-workforce-development-and-retention.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Socials
 twitter_username: jekyllrb
@@ -76,6 +76,15 @@ navbar-links:
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
+
+primary-color: "#d5a300"
+secondary-color: "#23468b"
+success-color: "#28a745"
+info-color: "#17a2b8"
+warning-color: "#ffc107"
+danger-color: "#dc3545"
+light-color: "#F5F5F5"
+dark-color: "#000a0d"
 
 navbar-col: "#F5F5F5"
 navbar-text-col: "#ffffff"

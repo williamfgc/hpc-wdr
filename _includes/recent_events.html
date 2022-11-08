@@ -5,21 +5,21 @@
 {%- endif -%}
 <div class="row post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    {% assign events = site.events | sort: 'date' %}
-    {%- for event in events limit:3 -%}
+    {% assign events = site.events | sort: 'date' | reversed %}
+    {%- for event in events -%} <!-- Having issues with limit:3 and expired dates-->
 
     <!-- Only show items that are not expired (aka archived)-->
     {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
     {% capture expires %}{{ event.expires | date: '%s'}}{% endcapture %}
 
     {% if expires > nowunix %}
-    <div class="col-lg">
+    <div class="col-lg-4 mb-4">
         <span class="post-meta">{{ event.date | date: date_format }}</span>
-        <h3>
+        <h4>
             <a class="post-link" href="{{ event.url | relative_url }}">
                 {{ event.title | escape }}
             </a>
-        </h3>
+        </h4>
         {{ event.content | strip_html | truncatewords: 15 }}
      </div>
     {% endif %}
@@ -27,4 +27,7 @@
     
 </div>
 <br>
-<button class="btn btn-outline">View All Events</button>
+
+<a href="/community">
+    <button class="btn btn-outline">View All Events</button>
+</a>
