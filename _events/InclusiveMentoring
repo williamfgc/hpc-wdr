@@ -1,13 +1,14 @@
 ---
-layout: Strategies for Inclusive Mentorship in Computing
-title:  "Strategies for Inclusive Mentorship in Computing"
-location: Zoom
-event_url: [Strategies for Inclusive Mentorship in Computing](https://www.exascaleproject.org/workforce-development-seminar-series/ ) https://www.exascaleproject.org/workforce-development-seminar-series/ 
-date: 2023-16-03-16 1:00 p.m. -0400 # event_date
-category: "webinar" # webinar or community
-expires: 2023-17-10
+layout: event
+title:  "Event #2"
+location: Princeton, NJ
+event_url: https://ornl.gov/ # optional
+date:   2022-10-26 11:54:05 -0400 # event_date
+category: "community" # webinar or community
+expires: 2025-10-26
 repeated: false
 ---
+
 You’ll find all event posts in your `_events` directory. Copy this template and edit it to add your own even. Make sure to add all required header information at the top of the page. Some common markdown is listed below for your convince.
 
 // HEADINGS
@@ -90,4 +91,3 @@ or
     * Second level
         * Third level
             * Fourth level
-
