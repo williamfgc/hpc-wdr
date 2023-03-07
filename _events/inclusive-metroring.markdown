@@ -1,11 +1,11 @@
 ---
-layout: event
-title:  "Event #2"
-location: Princeton, NJ
-event_url: https://ornl.gov/ # optional
-date:   2022-10-26 11:54:05 -0400 # event_date
-category: "community" # webinar or community
-expires: 2025-10-26
+layout: Strategies for Inclusive Mentorship in Computing
+title:  "Strategies for Inclusive Mentorship in Computing"
+location: Zoom
+event_url: [Strategies for Inclusive Mentorship in Computing](https://www.exascaleproject.org/workforce-development-seminar-series/) 
+date: 2023-03-16 13:00:00 -0400 # event_date
+category: "webinar" # webinar or community
+expires: 2023-17-10
 repeated: false
 ---
 
@@ -18,6 +18,7 @@ You’ll find all event posts in your `_events` directory. Copy this template an
 ### Heading 3
 #### Heading 4
 ##### Heading 5
+
 
 ---
 
