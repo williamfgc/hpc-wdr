@@ -30,7 +30,3 @@ Reed Milewicz, Sandia National Laboratories
 
 Reed Milewicz, Ph.D. is a computer scientist and software engineering researcher in the Department of Software Engineering and Research at Sandia National Laboratories. His research focuses on developing better practices, processes, and tools to improve software development in the scientific domain. More broadly, he is interested in studying the impact of diversity in the software industry and articulating effective strategies for creating inclusive cultures in that context. He leads software science research efforts within his department and is a member of the Interoperable Design of Extreme-Scale Application Software (IDEAS) project, where he is part of the PSIP team.
 
-
-
----
-
