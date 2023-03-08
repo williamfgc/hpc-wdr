@@ -9,8 +9,6 @@ expires: 2023-17-10
 repeated: false
 ---
 
-
-
 # Strategies for Inclusive Mentorship in Computing
 
 ---
