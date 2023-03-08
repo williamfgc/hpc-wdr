@@ -5,7 +5,6 @@ description: The High Performance Computing (HPC) Workforce Development and Rete
 permalink: /about/
 ---
 
-![image example](/assets/img/150.png)
 
 ### Who we are
 
