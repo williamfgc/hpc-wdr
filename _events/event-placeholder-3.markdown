@@ -9,7 +9,8 @@ expires: 2025-10-26
 repeated: false
 ---
 
-// Headings 
+// HEADINGS
+
 # Strategies for Inclusive Mentorship in Computing
 
 ---
