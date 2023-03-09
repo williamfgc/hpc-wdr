@@ -53,6 +53,9 @@ a:hover {
 p.display-5 {
     font-size: 1.5rem;
 }
+.text-underline {
+    text-decoration: underline !important;
+}
 
 //** 
 //* BUTTONS 
@@ -123,7 +126,7 @@ a.nav-link:hover {
     color: white;
 }
 .banner-text {
-    padding: 140px;
+    padding: 120px;
 }
 
 //** 
@@ -152,3 +155,23 @@ ul.pagination {
 .mission .card-body {
     padding: 0px;
 }
+
+//** 
+//* GRIDS
+//**
+.w-70 {
+    width: 70% !important;
+}
+
+// Mobile styling
+@media only screen and (max-width: 991px) {
+    .w-70 {
+        width: 100% !important;
+    }
+
+    .banner-text {
+        padding: 100px 70px;
+        background-color: #000000b0;
+    }
+}
+  
