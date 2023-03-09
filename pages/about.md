@@ -25,4 +25,4 @@ If you have quesitons or want more information about HPC-WDR Action Group, pleas
 
 ### Code of Conduct 
 
-Please see the HPC-WDR :ref:`Code of Conduct<codeofconduct>`Code of conduct.
+Please see the HPC-WDR [Code of conduct](hpcwdr/pages/codeofconduct).
