@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: The High Performance Computing (HPC) Workforce Development and Retention (WDR) Action group was established by the  Exascale Computing Project’s Broadening Participation Initiative as part of a sustainable plan to recruit and retain a diverse HPC workforce by fostering a supportive and inclusive culture within the computing sciences at DOE national laboratories.
+description: The High-Performance Computing (HPC) Workforce Development and Retention (WDR) Action group was established by the  Exascale Computing Project’s Broadening Participation Initiative as part of a sustainable plan to recruit and retain a diverse HPC workforce by fostering a supportive and inclusive culture within the computing sciences at DOE national laboratories.
 permalink: /about/
 ---
 
 
 ### Who we are
 
-The High Performance Computing (HPC) Workforce Development and Retention (WDR) Action group was established by the  Exascale Computing Project’s Broadening Participation Initiative as part of a sustainable plan to recruit and retain a diverse HPC workforce by fostering a supportive and inclusive culture within the computing sciences at DOE national laboratories. The large muti-lab collaboration of ECP serves as a good starting point for collecting and disseminating best practices for workforce development and retention, and cultural development. 
+The High-Performance Computing (HPC) Workforce Development and Retention (WDR) Action group was established by the  Exascale Computing Project’s Broadening Participation Initiative as part of a sustainable plan to recruit and retain a diverse HPC workforce by fostering a supportive and inclusive culture within the computing sciences at DOE national laboratories. The large muti-lab collaboration of ECP serves as a good starting point for collecting and disseminating best practices for workforce development and retention, and cultural development. 
 
 
 ### Why we formed
