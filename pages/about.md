@@ -23,4 +23,6 @@ This website serves as a place to collect and archive resources and best practic
 If you have quesitons or want more information about HPC-WDR Action Group, please contact:email:`Suzanne Parete-Koon <nk8@ornl.gov>`
 
 
+### Code of Conduct 
 
+Please see the HPC-WDR :ref:`Code of Conduct<codeofconduct>`Code of conduct.
