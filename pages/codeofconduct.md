@@ -1,3 +1,10 @@
+---
+layout: page
+title: Code of Conduct
+description: Contributors to these pages must follow a code of conduct that fosters respect of all participants.
+permalink: /codeofconduct/
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
