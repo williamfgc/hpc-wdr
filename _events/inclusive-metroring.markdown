@@ -1,11 +1,11 @@
 ---
 layout: event
-title:  "Event #4"
-location: Oak Ridge, TN # event location
-event_url: https://ornl.gov/ # optional
+title:  "Strategies for Inclusive Mentorship in Computing"
+location: Zoom # event location
+event_url: https://www.exascaleproject.org/event/inclusive-mentorship/ # optional
 date:   2022-10-26 11:54:05 -0400 # event_date
-category: "community" # webinar or community
-expires: 2025-10-26
+category: "webinar" # webinar or community
+expires: 2023-03-17
 repeated: false
 ---
 
