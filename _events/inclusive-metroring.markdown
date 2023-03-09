@@ -3,7 +3,7 @@ layout: event
 title:  "Strategies for Inclusive Mentorship in Computing"
 location: Zoom # event location
 event_url: https://www.exascaleproject.org/event/inclusive-mentorship/ # optional
-date:   2022-10-26 11:54:05 -0400 # event_date
+date:   2022-03-16 11:54:05 -0400 # event_date
 category: "webinar" # webinar or community
 expires: 2023-03-17
 repeated: false
