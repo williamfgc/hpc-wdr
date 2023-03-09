@@ -1,15 +1,14 @@
 ---
-layout: Strategies for Inclusive Mentorship in Computing
+layout event
 title:  "Strategies for Inclusive Mentorship in Computing"
 location: Zoom
 event_url: https://www.exascaleproject.org/workforce-development-seminar-series 
-date: 2023-03-16 13:00:00 -0400 # event_date
+date: 2022-03-16 13:00:00 -0400 # event_date
 category: "webinar" # webinar or community
 expires: 2023-17-10
 repeated: false
 ---
 
-// HEADINGS
 
 # Strategies for Inclusive Mentorship in Computing
 
@@ -30,4 +29,4 @@ Reed Milewicz, Sandia National Laboratories
 
 Reed Milewicz, Ph.D. is a computer scientist and software engineering researcher in the Department of Software Engineering and Research at Sandia National Laboratories. His research focuses on developing better practices, processes, and tools to improve software development in the scientific domain. More broadly, he is interested in studying the impact of diversity in the software industry and articulating effective strategies for creating inclusive cultures in that context. He leads software science research efforts within his department and is a member of the Interoperable Design of Extreme-Scale Application Software (IDEAS) project, where he is part of the PSIP team.
 
-// HEADINGS
+
