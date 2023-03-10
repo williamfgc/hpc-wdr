@@ -14,7 +14,7 @@
 
     {% if expires > nowunix %}
     <div class="col-lg-4 mb-4">
-        <span class="post-meta">{{ event.date | date: date_format }}</span>
+        <!-- <span class="post-meta">{{ event.date | date: date_format }}</span> -->
         <h4>
             <a class="post-link" href="{{ event.url | relative_url }}">
                 {{ event.title | escape }}
