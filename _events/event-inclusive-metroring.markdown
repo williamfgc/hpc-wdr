@@ -1,15 +1,17 @@
 ---
 layout: event
 title:  "Strategies for Inclusive Mentorship in Computing"
-location: Zoom # event location
-event_url: https://www.exascaleproject.org/event/inclusive-mentorship/ # optional
-date:   2022-03-16 11:54:05 -0400 # event_date
+location: Zoom
+event_url: https://www.exascaleproject.org/workforce-development-seminar-series 
+date: 2022-03-16 13:00:00 -0400 # event_date
 category: "webinar" # webinar or community
-expires: 2023-03-17
+expires: 2025-17-10
 repeated: false
 ---
 
+# Strategies for Inclusive Mentorship in Computing
 
+---
 ## Abstract 
 Mentorship is a dynamic, career-long phenomenon spanning many different relationships that support our personal and professional development. A wealth of scholarship on mentorship practices has emerged across many disciplines studying how mentorship happens in the workplace, its benefits, and what institutions can do to foster those relationships.  While mentorship can benefit everyone, studies have shown that positive mentorship experiences are especially significant for members of underrepresented groups; through a close working alliance with a mentor, women and minority mentees can acquire not just the skills they need to succeed but also an affirmation of belonging and professional identity that is so crucial to retention. In this way, inclusive mentoring is especially significant as a strategy for workforce development and retention in computing. Like good software engineering, good human workforce engineering can be built by developing processes that make it easier to widely implement. In this talk, Reed Milewicz, a computer scientist at Sandia National Laboratories, will describe insights into the science of mentorship, his ongoing research into mentorship among computing professionals, and his experiences with inclusive mentorship training as offered by Center for the Improvement of Mentored Experience in Research.
 
@@ -26,4 +28,4 @@ Reed Milewicz, Sandia National Laboratories
 
 Reed Milewicz, Ph.D. is a computer scientist and software engineering researcher in the Department of Software Engineering and Research at Sandia National Laboratories. His research focuses on developing better practices, processes, and tools to improve software development in the scientific domain. More broadly, he is interested in studying the impact of diversity in the software industry and articulating effective strategies for creating inclusive cultures in that context. He leads software science research efforts within his department and is a member of the Interoperable Design of Extreme-Scale Application Software (IDEAS) project, where he is part of the PSIP team.
 
-
+// HEADINGS
