@@ -67,7 +67,9 @@ favicon: "/assets/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About: "about"
+  About:
+    - About: "about"
+    - Site Overview: "site-overview"
   Community: "community"
   HPC Jobs: "jobs"
   Blog: "blog"

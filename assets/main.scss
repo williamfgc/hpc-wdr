@@ -108,7 +108,15 @@ a.nav-link {
 a.nav-link:hover {
     color: {{site.primary-color}};
 }
-
+li.nav-link.dropdown-toggle {
+    padding: 1rem !important;
+}
+.dropdown-toggle:hover .dropdown-menu {
+    display: block!important;
+}
+li.nav-link {
+    position: relative!important;
+}
 //** 
 //* FOOTER 
 //**
