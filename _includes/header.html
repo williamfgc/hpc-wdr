@@ -19,14 +19,29 @@
               </svg>
             </span>
           </label>
-
-          <ul class="navbar-nav">
-            {% for link in site.navbar-links %}
-              <li class="nav-item">
-                {% include navbarlink.html link=link %}
-              </li>
-            {% endfor %}
-            </ul>
+            <ul class="nav navbar-nav">
+              {% for link in site.navbar-links %}
+                {% if link[1].first %}
+                  <li class="nav-item">
+                    <li class="nav-link dropdown-toggle" data-toggle="dropdown">{{ link[0] }}
+                      <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        {% for childlink in link[1] %}
+                          {% for linkparts in childlink %}
+                            <li>
+                              {% include navbarlink.html link=linkparts %}
+                            </li>
+                          {% endfor %}
+                        {% endfor %}
+                      </ul>
+                    </li>
+                  </li>
+                {% else %}
+                  <li class="nav-item">
+                    {% include navbarlink.html link=link %}
+                  </li>
+                {% endif %}
+                {% endfor %}
+              </ul>
         </nav>
       {%- endif -%}
     </div>
