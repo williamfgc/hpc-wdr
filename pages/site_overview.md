@@ -5,23 +5,31 @@ description: The High-Performance Computing (HPC) Workforce Development and Rete
 permalink: /site-overview/
 ---
 
+## What is Here?
 
-### Who we are
+One of purposes of this site is to help connect and inform the Computational Science and Computing communities. We welcome contributions of blogs, best practices and events to these pages. 
+However, the material must be in scope.
 
-The High-Performance Computing (HPC) Workforce Development and Retention (WDR) Action group was established by the  Exascale Computing Project’s Broadening Participation Initiative as part of a sustainable plan to recruit and retain a diverse HPC workforce by fostering a supportive and inclusive culture within the computing sciences at DOE national laboratories. The large muti-lab collaboration of ECP serves as a good starting point for collecting and disseminating best practices for workforce development and retention, and cultural development. 
+## Scope of Content
 
+The exact scope of relevant content will evolve as we learn more about community interests. However, the following guidelines should be useful:
 
-### Why we formed
+## In-scope content
+* General issues or experiences in workforce development and retention that overlap with common challenges faced in the Computational Science and Computing communities.
+* Best Practices for workforce development and retention in the Computational Science and Computing.
+* Characterization of challenges and solutions for workforce development that may be particularly valuable to the Computational Science and Computing communities.
 
-The Department of Energy’s Advanced Scientific Computing Research Program (ASCR) noted that the National Laboratories face workforce recruitment and retention challenges in the fields within the Computing Sciences that are relevant to their missions.  Future projections indicate an increasing workforce gap and a continued underrepresentation of minorities and females in the workforce unless there is an intervention.
+## Highlight connections to Computational Science and Computing
+* How your topic intersects with themes that are of particular interest to Computational Science and Computing, for example, practices or examples of running an inclusive, equitable research group or project team that uses HPC or builds scientific software, best practices for mentoring and training Computing and Scientific computing professions or experiences or best practices with retaining a robust computing workforce. 
+* Why your topic could be of particular interest to Computational Science and Computing communities.</li>
 
+## Out-of-scope content
+* Tools, processes, and practices that have little in common with workforce development and retention or that could not be applied to building an inclusive, equitable and diverse scientific computing workforce.
+* Content that is deemed incomplete or biased, as determined by the HPC WDR leaders.
 
-This website serves as a place to collect and archive resources and best practices for workforce development and retention.
+## Does your idea seem to fit?
 
-### Contact information
-
-If you have quesitons or want more information about HPC-WDR Action Group, please contact: Suzanne Parete-Koon at [nk8@ornl.gov](mailto:nk8@ornl.gov)
-
+If you have an idea that might work, continue to the [How To Contribute page]({{ site.baseurl }}/README).
 
 ### Code of Conduct 
 
