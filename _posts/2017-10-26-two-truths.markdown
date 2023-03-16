@@ -6,7 +6,14 @@ author: Suzanne Parete-Koon
 categories: jekyll update
 expires: 2025-10-26
 ---
-Keisha is at the podium in a packed room at the Exascale Computing Project annual meeting. She is brave, opening our CULTIVATE Conversations session by sharing her career and life experiences. She is the Program Director for Sustainable Horizons Institute (SHI), which works to catalyze the normalization of inclusion of diverse ideas and people in the STEM workforce. Keisha has twenty years’ experience working with underrepresented students, and she has faced her own struggles with discrimination as an African American. Next, Mary Ann Leung, the founder of SHI, instructs us on how to cultivate conversations with each other. She tells us to divide into groups that each fill up large round tables in the room and asks us to team up with as many total strangers as we can.
+// IMAGES
+
+![alt text](https://via.placeholder.com/100)
+
+
+Keisha is at the podium in a packed room at the Exascale Computing Project annual meeting. She is brave, opening our CULTIVATE Conversations session by sharing her career and life experiences. She is the Program Director for Sustainable Horizons Institute (SHI), which works to catalyze the normalization of inclusion of diverse ideas and people in the STEM workforce. Keisha has twenty years’ experience working with underrepresented students, and she has faced her own struggles with discrimination as an African American. 
+
+Next, Mary Ann Leung, the founder of SHI, instructs us on how to cultivate conversations with each other. She tells us to divide into groups that each fill up large round tables in the room and asks us to team up with as many total strangers as we can.
 My table has a few computational scientists from the United Kingdom and some managers, scientists, and engineers from the U.S. National Labs. I am one of only two women at the table, and everyone is white. We have a good diversity of age and career stage, from postdoc to senior researcher. Other tables in the room have more cultural and national diversity.
 
 There is a little nervous conversation as we begin. Mary Ann and Kiesha demonstrate how to play a game called two truths and a lie to help us start understanding each other. We are asked to do it in a way that challenges stereotypes. I begin for my table by stating my two truths and a lie: 
