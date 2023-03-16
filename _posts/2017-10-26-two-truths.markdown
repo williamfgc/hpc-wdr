@@ -8,7 +8,7 @@ expires: 2025-10-26
 ---
 
 
-![Photo courtsey of Keisha Moore](./assets/img/twotruths.jpg)
+![Photo courtsey of Keisha Moore](hpcwdr/assets/img/twotruths.jpg)
 
 
 Keisha is at the podium in a packed room at the Exascale Computing Project annual meeting. She is brave, opening our CULTIVATE Conversations session by sharing her career and life experiences. She is the Program Director for Sustainable Horizons Institute (SHI), which works to catalyze the normalization of inclusion of diverse ideas and people in the STEM workforce. Keisha has twenty years’ experience working with underrepresented students, and she has faced her own struggles with discrimination as an African American. 
