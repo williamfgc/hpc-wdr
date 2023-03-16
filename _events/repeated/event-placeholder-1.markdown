@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Event #1"
+title:  "OpenMP Users Monthly Telecon"
 location: Zoom # event location
 event_url: https://www.exascaleproject.org/event/ecp-sollve-to-host-openmp-monthly-telecons/ # optional
 event_date: "Reoccurring: Last Friday of every month at 12:00 pm ET"
