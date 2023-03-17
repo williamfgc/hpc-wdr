@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a repository that containers the files for the official HPC Workforce Development and Retention group website hosted at https://hpcwdr.com.
+This is a repository that contains the files for the official HPC Workforce Development and Retention group website hosted at https://hpcwdr.com.
 The site is built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub. 
 
 ## How do I contribute?
