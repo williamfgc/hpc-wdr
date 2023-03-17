@@ -21,7 +21,7 @@ The exact scope of relevant content will evolve as we learn more about community
 
 ## Highlight connections to Computational Science and Computing
 * How your topic intersects with themes that are of particular interest to Computational Science and Computing, for example, practices or examples of running an inclusive, equitable research group or project team that uses HPC or builds scientific software, best practices for mentoring and training Computing and Scientific computing professions or experiences or best practices with retaining a robust computing workforce. 
-* Why your topic could be of particular interest to Computational Science and Computing communities.</li>
+* Why your topic could be of particular interest to Computational Science and Computing communities.
 
 ## Out-of-scope content
 * Tools, processes, and practices that have little in common with workforce development and retention or that could not be applied to building an inclusive, equitable and diverse scientific computing workforce.
