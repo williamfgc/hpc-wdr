@@ -5,8 +5,6 @@ description:
 permalink: /site-overview/
 ---
 
- The High-Performance Computing (HPC) Workforce Development and Retention (WDR) Action Group was established by the <a class="highlighted" href="https://www.exascaleproject.org/hpc-workforce" target="_blank" style="color:#D4AC0D;">Broadening Participation Initiative</a> of the <a class="highlighted" href="https://www.exascaleproject.org/" target="_blank" style="color:#D4AC0D;">Exascale Computing Project</a> as part of a sustainable plan to recruit and retain a diverse HPC workforce by fostering a supportive and inclusive culture within the computing sciences at DOE national laboratories.The large muti-lab collaboration of ECP serves as a good starting point for collecting and disseminating best practices for workforce development and retention, and cultural development.
-
 ## What is here?
 
 One purpose of this site is to help connect and inform the computational science and high-performance computing communities on topics related to workforce development and retention. We welcome contributions of blogs, best practices and events to these pages. 
@@ -31,8 +29,8 @@ The exact scope of relevant content will evolve as we learn more about community
 
 ## Does your idea seem to fit?
 
-If you have an idea that might work, continue to the [How To Contribute page]({{ site.baseurl }}/README).
+If you have an idea that might work, continue to the <a class="highlighted" href="https://github.com/HPC-Workforce-Development-and-Retention/hpcwdr/blob/main/README.md" target="_blank" style="color:#D4AC0D;">How To Contribute</a>.
 
 ## Code of conduct 
 
-Please see the HPC-WDR [Code of conduct]({{ site.baseurl }}/codeofconduct).
+Please see the HPC-WDR <a class="highlighted" href="https://hpc-workforce-development-and-retention.github.io/hpcwdr/codeofconduct/" target="_blank" style="color:#D4AC0D;">Code of Conduct</a>.
