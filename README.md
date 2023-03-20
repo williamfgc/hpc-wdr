@@ -8,7 +8,7 @@ The site is built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub.
 ## How do I contribute?
 
 We encourage the community to contribute to the content of the website. However, content must be in scope as outlined on the 
-<a class="highlighted" href="https://hpc-workforce-development-and-retention.github.io/hpcwdr/site-overview/" target="_blank" style="color:#D4AC0D;">Site Overview</a>,must follow the site <a class="highlighted" href="https://hpc-workforce-development-and-retention.github.io/hpcwdr/codeofconduct/" target="_blank" style="color:#D4AC0D;">Code of Conduct</a>, and must be approved by the HPC WDR Editorial Board. 
+<a class="highlighted" href="https://hpc-workforce-development-and-retention.github.io/hpcwdr/site-overview/" target="_blank" style="color:#D4AC0D;">Site Overview</a>, must follow the site <a class="highlighted" href="https://hpc-workforce-development-and-retention.github.io/hpcwdr/codeofconduct/" target="_blank" style="color:#D4AC0D;">Code of Conduct</a>, and must be approved by the HPC WDR Editorial Board. 
 
 ## Contributing for Those Who Are Not Familiar with the Git Workflow
 
