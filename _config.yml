@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HPC WDR
+title: HPC-WDR
 email: cranfillkd@ornl.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  The High Performance Computing Workforce Development and Retention Action Group’s 
+  The High-Performance Computing Workforce Development and Retention Action Group’s 
   mission is to enable the Department of Energy National Laboratories and their 
   related computing communities to share their collective insight for inclusive 
-  and equitable workforce development and retention for High Performance Computing.
+  and equitable workforce development and retention for High-Performance Computing.
 baseurl: "/hpcwdr" # the subpath of your site, e.g. /blog
 url: "https://hpc-workforce-development-and-retention.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
