@@ -15,7 +15,6 @@ proper steps to make your contribution.
 Whether you are opening a pull request or an issue, you might want to communicate with
 others in the community first. How can you do this? You can:
 
- - have discussion on the hpcwdr slack (hpcwdr.slack.com) in the `#website` channel
  - open an issue on our [issues board](https://github.com/HPC-Workforce-Development-and-Retention/hpcwdr/issues)
  - write an email to contact@hpcwdr.org (for more private questions)
 
@@ -48,7 +47,7 @@ to do this.
 The repository comes with a [pull request template](PULL_REQUEST_TEMPLATE.md) that provides you with a checklist and
 helpful reminders for these points.
 
-1. All pull requests should be sent to the main branch, unless you are testing an integration, in which case you should cc @hpcwdr-admin in an issue, or ask for help on the website channel of hpcwdr.slack.com.
+1. All pull requests should be sent to the main branch, unless you are testing an integration, in which case you should cc @hpcwdr-admin in an issue.
 2. Follow the existing code style precedent.
 3. Test and preview your PR locally, and tell the reviewers if you were not able to
 4. If necessary, update the README.md.
