@@ -29,8 +29,8 @@ The exact scope of relevant content will evolve as we learn more about community
 
 ## Does your idea seem to fit?
 
-If you have an idea that might work, continue to the <a href="https://github.com/HPC-Workforce-Development-and-Retention/hpcwdr/blob/main/README.md" target="_blank">How To Contribute</a>.
+If you have an idea that might work, continue to the <a href="https://github.com/HPC-Workforce-Development-and-Retention/hpc-wdr/blob/main/README.md" target="_blank">How To Contribute</a>.
 
 ## Code of conduct 
 
-Please see the HPC-WDR <a href="https://hpc-workforce-development-and-retention.github.io/hpcwdr/codeofconduct/" target="_blank">Code of Conduct</a>.
+Please see the HPC-WDR <a href="https://hpc-workforce-development-and-retention.github.io/hpc-wdr/codeofconduct/" target="_blank">Code of Conduct</a>.
