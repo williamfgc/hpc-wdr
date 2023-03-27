@@ -40,17 +40,18 @@ h3 {
     color: {{site.primary-color}};
 }
 a {
-    color: {{site.dark-color}};
+    color: {{site.primary-color}};
+    text-decoration: underline;
 }
 a:visited {
-    color: {{site.dark-color}}; // This may need to be changed
+    color: {{site.link-col}}; // This may need to be changed
 }
 a:hover {
-    color: {{site.dark-color}};
+    color: {{site.primary-color}};
     text-decoration: underline;
 }
 a.highlighted {
-    color: #9a7600;
+    color: {{site.link-col}};
     text-decoration: underline;
 }
 p.display-5 {
@@ -59,7 +60,12 @@ p.display-5 {
 .text-underline {
     text-decoration: underline !important;
 }
-
+a.post-link,
+a.announcement-link,
+button a {
+    color: {{site.dark-color}};
+    text-decoration: none;
+}
 //** 
 //* BUTTONS 
 //**
@@ -104,6 +110,7 @@ button.btn.btn-outline a:visited {
 a.nav-link {
     color: black;
     padding: 1rem!important;
+    text-decoration: none;
 }
 a.nav-link:hover {
     color: {{site.primary-color}};
