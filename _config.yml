@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   mission is to enable the Department of Energy National Laboratories and their 
   related computing communities to share their collective insight for inclusive 
   and equitable workforce development and retention for High-Performance Computing.
-baseurl: "/hpcwdr" # the subpath of your site, e.g. /blog
+baseurl: "/hpc-wdr" # the subpath of your site, e.g. /blog
 url: "https://hpc-workforce-development-and-retention.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Socials
@@ -90,7 +90,7 @@ navbar-col: "#F5F5F5"
 navbar-text-col: "#ffffff"
 navbar-children-col: "#500e3d"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
+link-col: "#9a7600"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"

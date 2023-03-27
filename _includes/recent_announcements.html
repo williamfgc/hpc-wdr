@@ -8,7 +8,7 @@
 
 {% if expires > nowunix %}
 <div class="mb-3">
-    <a href={{ item.url }}>
+    <a class="announcement-link" href={{ item.url }}>
         <p class="m-0 font-weight-bold">{{ item.name }}</p>
     </a>
     <p class="mb-0">{{ item.description }}</p>

@@ -7,7 +7,7 @@ There are two logical ways to contribute to the code and content, including (but
  - opening up an issue to ask a question, report a bug, or request a feature
  - working on a change to the website and opening up a pull request to discuss
 
-This guide will help you to communicate with hpcwdr (if needed) and guide you with
+This guide will help you to communicate with hpc-wdr (if needed) and guide you with
 proper steps to make your contribution.
 
 ## Communication
@@ -15,11 +15,11 @@ proper steps to make your contribution.
 Whether you are opening a pull request or an issue, you might want to communicate with
 others in the community first. How can you do this? You can:
 
- - open an issue on our [issues board](https://github.com/HPC-Workforce-Development-and-Retention/hpcwdr/issues)
- - write an email to contact@hpcwdr.org (for more private questions)
+ - open an issue on our [issues board](https://github.com/HPC-Workforce-Development-and-Retention/hpc-wdr/issues)
+ - write an email to contact@hpc-wdr.org (for more private questions)
 
 It could be that you want to talk about a new feature or bug, and then follow up by opening
-an issue on our [issues board](https://github.com/HPC-Workforce-Development-and-Retention/hpcwdr/issues). It could also be
+an issue on our [issues board](https://github.com/HPC-Workforce-Development-and-Retention/hpc-wdr/issues). It could also be
 that you want to suggest and then work on a new feature, but you want to check first
 that a pull request would be welcomed. Regardless of your need, the above channels
 can offer you a means to do this.
@@ -28,8 +28,8 @@ can offer you a means to do this.
 
 We have several teams on the repository that you can reference (@ "at") if you need help!
 
- - @hpcwdr-admin: should be used for more important discussion that should involve administrators.
- - @hpcwdr-maintainers: are referenced when a new pull request is open, and are primarily responsible for doing or assigning review.
+ - @hpc-wdr-admin: should be used for more important discussion that should involve administrators.
+ - @hpc-wdr-maintainers: are referenced when a new pull request is open, and are primarily responsible for doing or assigning review.
 
 ## Making a Contribution
 
@@ -47,7 +47,7 @@ to do this.
 The repository comes with a [pull request template](PULL_REQUEST_TEMPLATE.md) that provides you with a checklist and
 helpful reminders for these points.
 
-1. All pull requests should be sent to the main branch, unless you are testing an integration, in which case you should cc @hpcwdr-admin in an issue.
+1. All pull requests should be sent to the main branch, unless you are testing an integration, in which case you should cc @hpc-wdr-admin in an issue.
 2. Follow the existing code style precedent.
 3. Test and preview your PR locally, and tell the reviewers if you were not able to
 4. If necessary, update the README.md.
@@ -56,6 +56,6 @@ helpful reminders for these points.
 
 #### Issue Process
 
-We encourage all community members to open issues on the GitHub [issues board](https://github.com/HPC-Workforce-Development-and-Retention/hpcwdr/issues) whether you have a question, feature request, or bug report. In the case that you do not
+We encourage all community members to open issues on the GitHub [issues board](https://github.com/HPC-Workforce-Development-and-Retention/hpc-wdr/issues) whether you have a question, feature request, or bug report. In the case that you do not
 have a GitHub account, you are welcome to communicate your issue via [other avenues](#communication)
 and a maintainer will create a GitHub issue on your behalf.
