@@ -45,3 +45,8 @@ Mentoring the mentee past their job title leads to impactful change, first at th
 level and then institutionally. The organization is thus empowered with respected mentees who become robust mentors. 
 
 
+<img src="{{ site.baseurl }}/assets/img/scot.jpg" alt="Scot Bellavia">
+
+Scot Bellaviais the B.E.S.T. Program Coordinator. He oversees interns around ORNL’s campus who are often getting their first professional job experience, grateful benefactors of a robust mentorship relationship. 
+
+
