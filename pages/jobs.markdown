@@ -5,7 +5,8 @@ description: Find a Computing job or internship at a Department of Energy Nation
 permalink: /jobs/
 ---
 
-[Argonne National Laboratory Internships](https://www.anl.gov/education)
+
+
 
    
    <div class="mb-4">
@@ -13,29 +14,28 @@ permalink: /jobs/
       <p class="m-0">The links below lead to computing internships</p>
         <div class="mt-4">
          <p>
-               <a href="https://www.anl.gov/education" target="_blank">Argonne National Laboratory Internships</a>
+            [Argonne National Laboratory Internships](https://www.anl.gov/education)
          </p>
          <p>
-            <a href="https://www.bnl.gov/education/college-students.php" target="_blank">Brookhaven National Laboratory Internships: </a>
+             [Brookhaven National Laboratory Internships](https://www.bnl.gov/education/college-students.php)
          </p>
          <p>
-            <a href="https://education.lbl.gov/internships/" target="_blank">Lawrence Berkely National Laboratory Internships</a>
+            [Lawrence Berkely National Laboratory Internships](https://education.lbl.gov/internships/)
          </p>
          <p>
-            <a href="https://www.llnl.gov/join-our-team/careers/find-your-job/internship" target="_blank">Lawrence Livermore National Laboratory Internships</a>
+            [Lawrence Livermore National Laboratory Internships](https://www.llnl.gov/join-our-team/careers/find-your-job/internship)
          </p>
          <p>
-            <a href="https://education.ornl.gov" target="_blank" >Oakridge National Laboratory Internships</a>
+            [Oakridge National Laboratory Internships](https://education.ornl.gov)
          </p>
          <p>
-            <a href="https://www.pnnl.gov/internships" target="_blank">Pacific Northwest National Laboratory Internships</a>
+            [Pacific Northwest National Laboratory Internship](https://www.pnnl.gov/internships)            
          </p>
          <p> 
-            <a href="https://careers.slac.stanford.edu/jobs-slac/educational-and-outreach-programs" target="_blank">Stanford Linear Accelerator Center National Laboratory Internships</a>
+            [Stanford Linear Accelerator Center National Laboratory Internships](https://careers.slac.stanford.edu/jobs-slac/educational-and-outreach-programs)
          </p>
          <p>
-            <a href="https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/"
-               target="_blank">Sandia National Laboratories Internships</a>
+            [Sandia National Laboratories Internships](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops
          </p>
          
          
