@@ -5,7 +5,7 @@ description: Find a Computing job or internship at a Department of Energy Nation
 permalink: /jobs/
 ---
 
-[https://www.anl.gov/education](Argonne National Laboratory Internships)
+[Argonne National Laboratory Internships](https://www.anl.gov/education)
 
    
    <div class="mb-4">
