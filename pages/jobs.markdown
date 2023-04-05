@@ -69,9 +69,7 @@ permalink: /jobs/
          </p>
           <p>
             [Sandia National Laboratories Jobs](https://www.sandia.gov/careers/career-possibilities/career-opportunities/computer-science/)
-       
          </p>
-         
       </div>
    </div>
 
