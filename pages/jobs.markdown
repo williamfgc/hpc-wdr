@@ -80,7 +80,7 @@ permalink: /jobs/
    <div class="mb-4">
       <h3 class="mb-0">Community Jobs Links</h3>
       <div class="mt-4">
-         <p>
+        <p>
            [All Department of Energy National Lab Jobs](https://www.energy.gov/jobs-national-labs)
          </p>
          <p>
