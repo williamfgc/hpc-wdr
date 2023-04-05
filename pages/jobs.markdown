@@ -14,29 +14,31 @@ permalink: /jobs/
       <p class="m-0">The links below lead to computing internships</p>
         <div class="mt-4">
          <p>
-            [Argonne National Laboratory Internships](https://www.anl.gov/education)
+               <a href="https://www.anl.gov/education" target="_blank">Argonne National Laboratory Internships</a>
          </p>
          <p>
-             [Brookhaven National Laboratory Internships](https://www.bnl.gov/education/college-students.php)
+            <a href="https://www.bnl.gov/education/college-students.php" target="_blank">Brookhaven National Laboratory Internships</a>
          </p>
          <p>
-            [Lawrence Berkely National Laboratory Internships](https://education.lbl.gov/internships/)
+            <a href="https://education.lbl.gov/internships/" target="_blank">Lawrence Berkely National Laboratory Internships</a>
          </p>
          <p>
-            [Lawrence Livermore National Laboratory Internships](https://www.llnl.gov/join-our-team/careers/find-your-job/internship)
+            <a href="https://www.llnl.gov/join-our-team/careers/find-your-job/internship" target="_blank">Lawrence Livermore National Laboratory Internships</a>
          </p>
          <p>
-            [Oakridge National Laboratory Internships](https://education.ornl.gov)
+            <a href="https://education.ornl.gov" target="_blank" >Oakridge National Laboratory Internships</a>
          </p>
          <p>
-            [Pacific Northwest National Laboratory Internship](https://www.pnnl.gov/internships)            
+            <a href="https://www.pnnl.gov/internships" target="_blank">Pacific Northwest National Laboratory Internships</a>
          </p>
          <p> 
-            [Stanford Linear Accelerator Center National Laboratory Internships](https://careers.slac.stanford.edu/jobs-slac/educational-and-outreach-programs)
+            <a href="https://careers.slac.stanford.edu/jobs-slac/educational-and-outreach-programs" target="_blank">Stanford Linear Accelerator Center National Laboratory Internships</a>
          </p>
          <p>
-            [Sandia National Laboratories Internships](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops
+            <a href="https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/"
+               target="_blank">Sandia National Laboratories Internships</a>
          </p>
+         
          
    </div>
 
