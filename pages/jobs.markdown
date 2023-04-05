@@ -47,28 +47,29 @@ permalink: /jobs/
       <p class="m-0">The links below lead to computing job postings at the Department of Energy National Laboratories.</p>
       <div class="mt-4">
          <p>
-            <a href="https://www.anl.gov/cels/careers-in-computing" target="_blank">Argonne National Laboratory Jobs</a>
+            [Argonne National Laboratory Jobs](https://www.anl.gov/cels/careers-in-computing)
          </p>
          <p> 
-            <a href="https://jobs.bnl.gov/search-jobs/" target="_blank">Brookhaven National Laboratory Jobs</a>
+            [Brookhaven National Laboratory Jobs](https://jobs.bnl.gov/search-jobs/)
          </p>
          <p>
-            <a href="https://cs.lbl.gov/careers/" target="_blank">Lawrence Berkely National Laboratory Jobs</a>
+            [Lawrence Berkely National Laboratory Jobs](https://cs.lbl.gov/careers/)
          </p>
          <p>
-            <a href="https://computing.llnl.gov/careers" target="_blank">Lawrence Livermore National Laboratory Jobs</a>
+            [Lawrence Livermore National Laboratory Jobs](https://computing.llnl.gov/careers)
          </p>
          <p>
-            <a href="https://jobs.ornl.gov/go/Computational-Sciences-Jobs/4534300/" target="_blank">Oakridge National Laboratory Jobs</a>
+            [Oakridge National Laboratory Jobs](https://jobs.ornl.gov/go/Computational-Sciences-Jobs/4534300/)
          </p>
           <p> 
-            <a href="https://careers.pnnl.gov" target="_blank">Pacific Northwest National Laboratory Jobs</a>
+            [Pacific Northwest National Laboratory Jobs](https://careers.pnnl.gov)
          </p>
-         <p>
-            <a href="https://careers.slac.stanford.edu" target="_blank">Stanford Linear Accelerator Center National Laboratory Jobs</a>
+          <p>
+            [Stanford Linear Accelerator Center National Laboratory Jobs](https://careers.slac.stanford.edu)
          </p>
-         <p>
-            <a href="https://www.sandia.gov/careers/career-possibilities/career-opportunities/computer-science/" target="_blank">Sandia National Laboratories Jobs</a>
+          <p>
+            [Sandia National Laboratories Jobs](https://www.sandia.gov/careers/career-possibilities/career-opportunities/computer-science/)
+       
          </p>
          
       </div>
@@ -80,13 +81,13 @@ permalink: /jobs/
       <h3 class="mb-0">Community Jobs Links</h3>
       <div class="mt-4">
          <p>
-             <a href="https://www.energy.gov/jobs-national-labs" target="_blank">All Department of Energy National Lab Jobs</a>
-            </p>
+           [All Department of Energy National Lab Jobs](https://www.energy.gov/jobs-national-labs)
+         </p>
          <p>
-            <a href="https://insidehpc.com/jobs/" target="_blank">Inside HPC Jobs Page</a>
+            [Inside HPC Jobs Page](https://insidehpc.com/jobs/)
          </p>
          <p> 
-            <a href="https://jobs.hpcwire.com" target="_blank">HPC Wire Jobs Page</a>
+            [HPC Wire Jobs Page](https://jobs.hpcwire.com)
          </p>
       </div>
    </div>
