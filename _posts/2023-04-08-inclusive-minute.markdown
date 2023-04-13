@@ -61,10 +61,10 @@ Examples of inclusive minute topics that are, by the terms offered here, out of 
   * Is it appropriate length? No. Its 6 minutes. 2-3 minutes might work but 6 is a bit too long.
   * Is it closely related to **X**? Probably not. It is more of a general resource regarding inclusion and does not seem to tie inclusion into any specific **X**.
 * Going page-by-page through a resource such as [Microsoft's Inclusive Design for Cognition Guidebook](https://inclusive.microsoft.design/tools-and-activities/InclusiveDesignForCognitionGuidebook.pdf).
-  * Is it appropriate length? The resource, by itself, is 50+ pages and would take too long to go through. However, sharing a link to the article and two or three take-aways in the form of a single slide would be appropriate length.
+  * Is it appropriate length? The resource, by itself, is 50+ pages and would take too long to go through. However, recommending and sharing a link to the article and two or three take-aways would be appropriate length.
   * Is it closely related to **X**? Even if **X** is software development, maybe not. The resource is extremely high level and general and really doesn't tie inclusion topics with an **X**.
 
-#### What is inclusion?
+### What is inclusion?
 
 Inclusion is about ensuring people with diverse identities and experiences have equitable access to resources and opportunities and feel safe, welcomed, respected, valued, and encouraged to contribute as their full, authentic selves in any particular group or activity (quoted from [Tony Baylis](https://people.llnl.gov/baylis3), Lawrence Livermore National Laboratory's Director for the Office of Strategic Diversity and Inclusion Programs).
 
