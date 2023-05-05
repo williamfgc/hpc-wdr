@@ -131,7 +131,14 @@ li.nav-link {
     background-color: {{site.dark-color}};
     color: white;
 }
-
+.site-footer img {
+    max-height: 40px!important;
+    margin: 20px auto;
+    display: block;
+}
+img.nnsa-logo {
+    max-height: 75px!important;
+}
 //** 
 //* BANNER 
 //**
