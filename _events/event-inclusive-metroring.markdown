@@ -29,6 +29,6 @@ Reed Milewicz, Ph.D. is a computer scientist and software engineering researcher
 
 [Recording](https://www.youtube.com/watch?v=fecyx953adk)
 
-[Slides](https://github.com/HPC-Workforce-Development-and-Retention/hpc-wdr/blob/Suzanne_Event_archive/assets/16March2023_HPCWDR_Mentorship.pdf)
+[Slides](https://www.exascaleproject.org/wp-content/uploads/2023/01/16March2023_HPCWDR_Mentorship.pdf)
 
 
