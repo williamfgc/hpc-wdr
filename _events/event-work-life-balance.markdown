@@ -22,4 +22,4 @@ This panel features brief presentations followed by engaging discussion from con
 
 **Materials**
 
-(Video)[https://www.youtube.com/watch?v=eqM9mli-Ko0]
+[Video](https://www.youtube.com/watch?v=eqM9mli-Ko0)
