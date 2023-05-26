@@ -5,7 +5,7 @@ location: Zoom
 event_url: https://www.exascaleproject.org/event/blc/
 date: 2022-10-25 15:00:00 -0400 # event_date
 category: "webinar" # webinar or community
-expires: 2022-25-10
+expires: 2022-10-25
 repeated: false
 ---
 
