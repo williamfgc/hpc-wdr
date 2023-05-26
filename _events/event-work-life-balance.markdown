@@ -5,7 +5,7 @@ location: Zoom
 event_url: https://www.exascaleproject.org/workforce-development-seminar-series/ # optional
 date:   2022-12-08 11:54:05 -0400 # event_date
 category: "webinar" # webinar or community
-expires: 2018-10-26
+expires: 2022-12-08
 repeated: false
 ---
 
