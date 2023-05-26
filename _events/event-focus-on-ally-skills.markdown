@@ -10,6 +10,7 @@ repeated: false
 ---
 
 **Abstract**
+
 Allyship in the workplace involves using your power, position, or privilege to uplift other coworkers.
 
 Why should teaching ally skills be a core part of a modern workforce development program? 
