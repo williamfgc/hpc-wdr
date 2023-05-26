@@ -3,7 +3,7 @@ layout: event
 title:  "Strategies for Inclusive Mentorship in Computing"
 location: Zoom
 event_url: https://www.exascaleproject.org/workforce-development-seminar-series 
-date: 2023-03-16 13:00:00 -0400 # event_date
+date: 2022-03-16 13:00:00 -0400 # event_date
 category: "webinar" # webinar or community
 expires: 2023-03-16
 repeated: false
