@@ -3,7 +3,7 @@ layout: event
 title:  "Work-Life Balance--Lessons from SC22 Early Career Program Panelists"
 location: Zoom
 event_url: https://www.exascaleproject.org/workforce-development-seminar-series/ # optional
-date:   2023-12-08 11:54:05 -0400 # event_date
+date:   2022-12-08 11:54:05 -0400 # event_date
 category: "webinar" # webinar or community
 expires: 2018-10-26
 repeated: false
