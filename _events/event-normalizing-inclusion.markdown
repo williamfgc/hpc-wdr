@@ -16,8 +16,8 @@ Computational science and engineering (CSE) is an inter- and multidisciplinary f
 
 **Materials** 
 
-[Audio Transcript:](https://www.exascaleproject.org/wp-content/uploads/2022/08/GMT20220830-180059_Recording.transcript-1.pdf)
-[Video:]( https://youtu.be/vaEcvUu3oL0)
+[Slides:](https://www.exascaleproject.org/wp-content/uploads/2022/05/webinar-EmbracingDifference-220615.pdf)
+[Video:](https://youtu.be/KImV7ZCcYsk)
 
 
 This webinar was brought to you by:
