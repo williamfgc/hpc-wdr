@@ -23,7 +23,8 @@ X is whatever topic your team comes together regularly to meet about. Whatever X
 
 ### Examples 
 
-US-Research Software Engineer AssociationDE&I Activities<img width="779" alt="image" src="https://github.com/HPC-Workforce-Development-and-Retention/hpc-wdr/assets/4682047/0d63bee0-4b16-4582-857a-bf833b2c62b2">
+Show a slide that details an professional association’s inclusivity efforts.
+US-Research Software Engineer Association. 
 
 
 
