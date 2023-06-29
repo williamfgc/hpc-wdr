@@ -25,4 +25,7 @@ This webinar is brought to you by the [Exascale Computing Project (ECP)](https:/
 
 The talk will be recorded and posted to our archive, but the Q&A session will not be recorded.
 
-Please register here: [Challenges, Gaps, and Opportunities in Computing Workforce Development and Retention](https://www.exascaleproject.org/event/ecp-challenges/)
+**Materials from the Webinar**
+
+[slides](https://bit.ly/ecp-broadening-participation-webinar-2023-06)
+[Recording](https://youtu.be/rpNpp5EXv5M)
