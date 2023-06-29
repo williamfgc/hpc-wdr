@@ -5,7 +5,7 @@ location: Zoom # event location
 event_url: https://www.exascaleproject.org/event/ecp-sollve-to-host-openmp-monthly-telecons/ # optional
 event_date: "Reoccurring: Last Friday of every month at 12:00 pm ET"
 category: "webinar" # webinar or community
-expires: 2025-10-26
+expires: 2023-02-26
 repeated: true
 ---
 
