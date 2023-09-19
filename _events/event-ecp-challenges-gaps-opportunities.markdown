@@ -3,9 +3,9 @@ layout: event
 title:  "ECP Broadening Participation Initiative: Challenges, Gaps, and Opportunities in Computing Workforce Development and Retention"
 location: Zoom
 event_url: https://www.exascaleproject.org/event/ecp-challenges/
-date: 0000-06-22 15:00:00 -0400 # event_date
+date: 2023-06-22 15:00:00 -0400 # event_date
 category: "webinar" # webinar or community
-expires: 2025-17-10
+expires: 2023-06-23
 repeated: false
 ---
 
