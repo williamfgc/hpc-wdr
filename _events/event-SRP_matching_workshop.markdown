@@ -5,7 +5,7 @@ location: Zoom # event location
 event_url: https://shinstitute.org/sustainable-research-pathways-2024-workshop/# optional
 event_date: "Applcations Due 2023-09-26"
 category: "community" # webinar or community
-expires: 0000-02-26
+expires: 2025-02-26
 repeated: true
 ---
 
