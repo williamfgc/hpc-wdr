@@ -1,9 +1,26 @@
 - expires: 2023-10-28
+  name: Better Scientific Software (BSSw) Fellowship Program 2024
+  url: https://bssw.io/events/better-scientific-software-bssw-fellowship-program-2024
+  description: The 2024 Better Scientific Software (BSSw) Fellowship Program is accepting applications during August 15 through September 29, 2023. The BSSw Fellowship Program provides recognition and funding for leaders and advocates of high-quality scientific software who foster practices, processes, and tools to improve scientific software productivity and sustainability.
+- expires: 2023-10-28
+  name: Sustainable Research Pathways Matching Workshop for Summer 2024
+  url: https://shinstitute.org/sustainable-research-pathways-2024-workshop/
+  description: Applications for the Sustainable Research Pathways (SRP) workforce development program are due Septeber 26,2023. SRP is a omprehensive workforce development program designed to connect students and faculty working with underrepresented groups* with U.S. Department of Energy (DOE) National Laboratory scientists to encourage lasting collaborations through paid summer internships, jump start careers, and build inclusive workplace environments.
+- expires: 2023-10-28
   name: US-RSE Conference
   url: https://us-rse.org/usrse23/
   description: The first ever US-RSE Conference, US-RSE23, is happening October 16-18, 2023, in Chicago, IL. The theme of this year’s conference will be Software Enabled Discovery and Beyond.
-- expires: 2023-08-12
+- expires: 2023-11-13
   name: Tenth SC Workshop on Best Practices for HPC Training and Education (BPHTE23)
   url: https://sighpceducation.acm.org/events/bphte23cfp/
   description: The Tenth workshop (BPHTE23), an ACM SIGHPC Education Chapter coordinated effort, is a full day workshop focusing on extending collaborations among practitioners from traditional and emerging fields, exploring the challenges in developing and deploying HPC training and education, and identifying new challenges and opportunities for the latest HPC platforms. 
+  - expires: 2023-11-13
+  name: WHPC@SC23: 16th International Women in HPC Workshop
+  url: https://sc23.supercomputing.org/presentation/?id=wksp152&sess=sess144
+  description : The 16th international Women in HPC workshop will be held at SC23 in Denver CO, USA on November 13th, with the goal of fostering a diverse and inclusive HPC community. New this year, we will have an increased emphasis on diversity and inclusion of both women and men from under represented groups.
+- expires: 2023-11-13
+  name: EduHPC-23: Workshop on Education for High Performance Computing
+  url: https://sc23.supercomputing.org/presentation/?id=wksp102&sess=sess102
+  description : The EduHPC workshop, which will be held in Denver CO, USA on November 13th, brings together stakeholders from industry (developers, hardware and software vendors), national labs, and academia in the context of SC, to hear the pedagogical challenges others are facing, share approaches to meeting such challenges, and generally exchange ideas related to high-performance computing, parallel and distributed computing, distributed data science, scalable AI and IoT/Edge computing in undergraduate and graduate education. In addition to paper presentations, this workshop will feature invited keynotes, panels (e.g., reproducibility in HPC education and training, inclusive pedagogy and efforts in broadening participation in HPC). 
+    
   
