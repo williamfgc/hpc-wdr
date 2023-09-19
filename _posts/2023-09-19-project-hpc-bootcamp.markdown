@@ -19,7 +19,7 @@ We have the support of two excellent peer mentors who are at the same career sta
 
 In total, there are 61 students working on six different projects prepared by National Lab staff and the Sustainable Horizons Institute. Each team is paired with a peer mentor. The students come from diverse academic backgrounds, including both graduates and undergraduates. Each project incorporates elements of HPC, big data, or AI and focuses on energy justice. Part of the motivation for this camp is to introduce High-Performance Computing into disciplines and among students who don't typically choose to use it. The energy justice focus was chosen because this effort is developed and supported by the Department of Energy, and we hoped the justice focus would attract a diverse pool of students from backgrounds that may not typically include advanced computing. The camp also aims to serve as a pathway to computing careers.
 
-The students have five days to complete the project. During this time, they will also attend talks and tutorials designed to introduce them to High-Performance Computing and the research it enables. At the end of the week, the students will present their project outcomes in teams
+The students have five days to complete the project. During this time, they will also attend talks and tutorials designed to introduce them to High-Performance Computing and the research it enables. At the end of the week, the students will present their project outcomes. 
 
 If you want to learn more about this project-based learning approach, please see [Intro to HPC Bootcamp](https://shinstitute.org/intro-to-hpc-bootcamp/). 
 
