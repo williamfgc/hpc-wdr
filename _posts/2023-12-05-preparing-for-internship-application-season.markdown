@@ -19,6 +19,7 @@ It is internship application season and many programs’ application deadlines a
 
 Note: Individual National Labs will have additional internship programs with application deadlines in January and February.
 
+### How to Prepare
 
 A couple of seasoned internship reviewers have compiled some tips below to help you prepare for application season:
 
@@ -34,7 +35,7 @@ A couple of seasoned internship reviewers have compiled some tips below to help 
 - After applying, expect a wait of several weeks before notification of funding and mentor matching. Some programs may notify applicants later.
 - Internship specifics like housing, attendance policies, and dates vary. Check the program's FAQ for precise information, as some details might only be available post-acceptance.
 
-### Tips and Tricks
+### Tips 
 - Thoroughly review application requirements before starting.
 - Use your network to secure a mentor. Contact people at the desired institution or lab.
 - Apply to multiple programs; preparedness with an application kit is key.
