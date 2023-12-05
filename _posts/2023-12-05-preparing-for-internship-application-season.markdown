@@ -51,7 +51,7 @@ A couple of seasoned internship reviewers have compiled some tips below to help 
 - Establish a personal motto for motivation during challenges.
 - Embrace the experience, explore the area, learn about the Labs, and network.
 
-### About the Reviewers
+### About the Authors
 - John K. Holmen: HPC Engineer at Oak Ridge National Laboratory, experienced in reviewing intern applications.
 - Suzanne Parete-Koon: HPC Engineer at Oak Ridge National Laboratory, with over 10 years of experience in reviewing applications for internships and fellowships.
 - This post was formatted and spelling and grammar checked by OpenAI. 
