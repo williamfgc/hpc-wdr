@@ -7,11 +7,20 @@ categories: jekyll update
 expires: 2025-10-26
 ---
 
-## Preparing for Internship Application Season
 
-It is internship application season and many programs’ application deadlines are in early January.
+It is internship application season and many programs’ application deadlines are in early January, as you can see from the examples below. 
 
-Below are a few sections with details to help you prepare for next Summer:
+| Deadline             | Program                                                                | Link                                                                                                                                   |
+|----------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| January 9            | DOE Science Undergraduate Laboratory Internships (SULI)                | [Link](https://science.osti.gov/wdts/suli)                                                                                             |
+| January 9            | DOE Community College Internships (CCI)                                | [Link](https://science.osti.gov/wdts/cci)                                                                                              |
+| January 15           | DOE Omni Technology Alliance Internship                                | [Link](https://www.energy.gov/doe-stem/events/doe-omni-technology-alliance-internship-program-application-deadline)                  |
+| February 15          | Minority Educational Institution Student Partnership Program (MEISPP) Internships | [Link](https://www.energy.gov/justice/minority-educational-institution-student-partnership-program-meispp-internships)               |
+
+Note: Individual National Labs will have additional internship programs with application deadlines in January and February.
+
+
+A couple of seasoned internship reviewers have compiled some tips below to help you prepare for application season:
 
 
 ### Resume Application Kit
