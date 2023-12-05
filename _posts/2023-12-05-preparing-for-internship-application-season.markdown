@@ -1,13 +1,18 @@
 ---
 layout: post
-title: "Tips from Internship Reviewers"
+title: "Preparing for Internship Application Season"
 date: 2023-12-04 11:59:58 -0800
 author: Suzanne Parete-Koon and John Holmen
 categories: jekyll update
 expires: 2025-10-26
 ---
 
-## Tips from Intern Application Reviewers
+## Preparing for Internship Application Season
+
+It is internship application season and many programs’ application deadlines are in early January.
+
+Below are a few sections with details to help you prepare for next Summer:
+
 
 ### Resume Application Kit
 - Obtain three recommendation letters from people familiar with your work. Contact professors and former mentors early for recommendations. Remind them of your work together and any achievements.
