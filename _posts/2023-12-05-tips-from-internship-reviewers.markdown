@@ -38,4 +38,5 @@ expires: 2025-10-26
 
 ### About the Reviewers
 - John K. Holmen: HPC Engineer at Oak Ridge National Laboratory, experienced in reviewing intern applications.
-- Suzanne Parete-Koon: HPC Engineer at Oak Ridge National Laboratory, with over 10 years of experience in reviewing applications for summer computing internships.
+- Suzanne Parete-Koon: HPC Engineer at Oak Ridge National Laboratory, with over 10 years of experience in reviewing applications for internships and fellowships.
+- This post was formatted and spelling and grammar checked by OpenAI. 
