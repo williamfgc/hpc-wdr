@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tips from Internship Reviewers"
-date: 2023-12-05 11:59:58 -0800
+date: 2023-12-04 11:59:58 -0800
 author: Suzanne Parete-Koon and John Holmen
 categories: jekyll update
 expires: 2025-10-26
