@@ -21,7 +21,7 @@ Note: Individual National Labs will have additional internship programs with app
 
 ### How to Prepare
 
-A couple of seasoned internship reviewers have compiled some tips below to help you prepare for application season:
+A couple of seasoned internship reviewers have compiled some tips below to help you prepare for application season.
 
 
 ### Resume Application Kit
