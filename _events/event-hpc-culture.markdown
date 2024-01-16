@@ -58,7 +58,12 @@ Dr. Hood completed a bachelor’s degree in Psychology from Northern Illinois Un
 and a master’s degree in Educational Psychology from the University of Illinois Urbana-Champaign. 
 She earned her PhD in Educational Psychology from Arizona State University.
 
+---
 
+[TO REGISTER CLICK HERE](https://www.olcf.ornl.gov/february-hpc-workforce-development-webinar/)
+
+
+---
 
 ---
 This webinar is brought to you by the HPC Workforce Development and Retention Action Group, 
