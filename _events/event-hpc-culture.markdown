@@ -9,7 +9,11 @@ expires: 2024-02-16
 repeated: true
 ---
 
-<h3 style="text-align: center;" markdown="1">[REGISTER HERE](https://www.olcf.ornl.gov/february-hpc-workforce-development-webinar/)</h3> 
+
+[REGISTER HERE](https://www.olcf.ornl.gov/february-hpc-workforce-development-webinar/)
+
+
+
 
 **Abstract**
 
