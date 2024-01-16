@@ -62,9 +62,6 @@ She earned her PhD in Educational Psychology from Arizona State University.
 
 [TO REGISTER CLICK HERE](https://www.olcf.ornl.gov/february-hpc-workforce-development-webinar/)
 
-
----
-
 ---
 This webinar is brought to you by the HPC Workforce Development and Retention Action Group, 
 which organizes a webinar series on topics related to developing a diverse, equitable, and 
