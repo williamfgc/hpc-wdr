@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "HPC Culture and Identity"
+title:  "February HPC-WDR Webinar: HPC Culture and Identity"
 location: Zoom # event location
 event_url: # optional
 event_date: "2024-02-15"
@@ -31,7 +31,7 @@ identities and the ways in which they inform and guide our work.
 
 <img src="{{ site.baseurl }}/assets/img/DeniceWardHood.jpg">
 
-Dr. Denice Ward Hood 
+**Dr. Denice Ward Hood** 
 
 Denice Ward Hood is the Director of the Center for Culturally 
 Responsive Evaluation and Assessment (CREA) at the University of Illinois, 
