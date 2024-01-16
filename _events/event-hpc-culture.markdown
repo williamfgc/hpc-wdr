@@ -29,7 +29,7 @@ identities and the ways in which they inform and guide our work.
 
 **Speaker**
 
-<img src="{{ site.baseurl }}/assets/img/DeniceWardHoodpicture.jpg">
+<img src="{{ site.baseurl }}/assets/img/DeniceWardHood.jpg">
 
 Dr. Denice Ward Hood 
 
