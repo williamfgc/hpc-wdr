@@ -10,6 +10,7 @@ repeated: true
 ---
 **Registration**
 ---
+The following link takes you to the registration page. 
 
 [TO REGISTER CLICK HERE](https://www.olcf.ornl.gov/february-hpc-workforce-development-webinar/)
 
@@ -58,11 +59,8 @@ Dr. Hood completed a bachelor’s degree in Psychology from Northern Illinois Un
 and a master’s degree in Educational Psychology from the University of Illinois Urbana-Champaign. 
 She earned her PhD in Educational Psychology from Arizona State University.
 
----
-
 [TO REGISTER CLICK HERE](https://www.olcf.ornl.gov/february-hpc-workforce-development-webinar/)
 
----
 This webinar is brought to you by the HPC Workforce Development and Retention Action Group, 
 which organizes a webinar series on topics related to developing a diverse, equitable, and 
 inclusive work culture in the computing sciences.
