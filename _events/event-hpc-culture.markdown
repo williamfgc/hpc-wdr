@@ -8,9 +8,9 @@ category: "webinar" # webinar or community
 expires: 2024-02-16
 repeated: true
 ---
+**Registration**
 
-
-[REGISTER HERE](https://www.olcf.ornl.gov/february-hpc-workforce-development-webinar/)
+[TO REGISTER CICK HERE](https://www.olcf.ornl.gov/february-hpc-workforce-development-webinar/)
 
 
 
