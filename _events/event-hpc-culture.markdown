@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "February HPC-WDR Webinar: HPC Culture and Identity"
+title:  "February HPC-Worforce Webinar: HPC Culture and Identity"
 location: Zoom # event location
 event_url: # optional
 event_date: "2024-02-15"
@@ -64,9 +64,6 @@ She earned her PhD in Educational Psychology from Arizona State University.
 
 [TO REGISTER CLICK HERE](https://www.olcf.ornl.gov/february-hpc-workforce-development-webinar/)
 
-This webinar is brought to you by the HPC Workforce Development and Retention Action Group, 
-which organizes a webinar series on topics related to developing a diverse, equitable, and 
-inclusive work culture in the computing sciences.
-
+The High-Performance Computing Workforce Development and Retention Action Group’s mission is to enable the Department of Energy National Laboratories and their related computing communities to share their collective insight for inclusive and equitable workforce development and retention for High-Performance Computing.
 
 
