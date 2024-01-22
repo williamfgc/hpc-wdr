@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "February HPC-Worforce Webinar: HPC Culture and Identity"
+title:  "February HPC-Workforce Webinar: HPC Culture and Identity"
 location: Zoom # event location
 event_url: # optional
 event_date: "2024-02-15"
