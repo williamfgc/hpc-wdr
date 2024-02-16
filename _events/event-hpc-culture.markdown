@@ -5,18 +5,10 @@ location: Zoom # event location
 event_url: # optional
 event_date: "2024-02-15"
 category: "webinar" # webinar or community
-expires: 2024-02-16
+expires: 2024-02-15
 repeated: true
 ---
-The HPC Workforce Development and Retention Action group will host an interactive Zoom-based Webinar, HPC Culture and Identity, given by Dr. Denice Ward Hood, Director of the Center for Culturally Responsive Evaluation and Assessment (CREA) at the University of Illinois, on Thursday, February 15 from 2:00-3:00 PM EST.  
-
-
-**Registration**
----
-Register using the link below and the Zoom Joining link will be sent to you. 
-
-[TO REGISTER CLICK HERE](https://www.olcf.ornl.gov/february-hpc-workforce-development-webinar/)
-
+The HPC Workforce Development and Retention Action group hosted an interactive Zoom-based Webinar, HPC Culture and Identity, given by Dr. Denice Ward Hood, Director of the Center for Culturally Responsive Evaluation and Assessment (CREA) at the University of Illinois, on Thursday, February 15. 
 
 ---
 
@@ -29,6 +21,8 @@ because it appeals to individuals’ unique curiosity, skills,
 and aptitude. Your whole, authentic self is an asset and a source of 
 innovation. This talk with be a space for discussion about culture and 
 identities and the ways in which they inform and guide our work. 
+
+[Recording](https://youtu.be/33VryY8Al2w)
 
 **Speaker**
 
